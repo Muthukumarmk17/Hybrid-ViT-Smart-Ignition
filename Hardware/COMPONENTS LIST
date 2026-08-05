@@ -1,0 +1,12 @@
+| S.No | Component                                             |   Quantity  | Purpose                                                                  |
+| ---: | ----------------------------------------------------- | :---------: | ------------------------------------------------------------------------ |
+|    1 | ESP32 Development Board                               |      1      | Main microcontroller for controlling the system                          |
+|    2 | MQ-3 Alcohol Sensor Module                            |      1      | Detects alcohol vapors                                                   |
+|    3 | OLED Display (0.96", I2C, SSD1306)                    |      1      | Displays system status (Helmet, Alcohol, Motor, etc.)                    |
+|    4 | DC Motor with Fan                                     |      1      | Represents the vehicle ignition/motor                                    |
+|    5 | Active Buzzer Module                                  |      1      | Provides audible alerts                                                  |
+|    6 | Breadboard                                            |      2      | Circuit prototyping                                                      |
+|    7 | Jumper Wires (Male–Male)                              | As required | Electrical connections                                                   |
+|    8 | USB Cable (Micro-USB/USB-C, depending on ESP32 board) |      1      | Power supply and programming                                             |
+|    9 | Laptop/PC                                             |      1      | Runs the Hybrid Vision Transformer model and communicates with the ESP32 |
+|   10 | Webcam                                                |      1      | Captures rider images for helmet detection                               |
